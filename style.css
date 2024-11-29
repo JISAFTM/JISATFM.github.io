@@ -52,6 +52,38 @@ header h3 {
     padding: 10px;
 }
 
+#css_text {
+    text-align: center;
+}
+
+#css_text h1 {
+    font-size: 40px;
+}
+
+#css_text p {
+    font-size: 20px;
+    width: 450px;
+    margin: auto;
+    line-height: 30px;
+    padding: 10px;
+}
+
+#github_text {
+    text-align: center;
+}
+
+#github_text_text h1 {
+    font-size: 40px;
+}
+
+#github_text p {
+    font-size: 20px;
+    width: 450px;
+    margin: auto;
+    line-height: 30px;
+    padding: 10px;
+}
+
 h3 {
     padding-top: 10px;
 }
@@ -82,7 +114,11 @@ h3 {
     border: 2px solid black;
 }
 
-#box_links :hover{
+#rebecca_purple {
+    color: rebeccapurple;
+}
+
+#box_links :hover {
     color: #E85A4F;
 }
 
@@ -104,4 +140,46 @@ h3 {
     margin: auto;
     margin-top: 25px;
     margin-bottom: 25px;
+} 
+
+#css {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/240px-Official_CSS_Logo.svg.png");
+    height: 240px;
+    width: 240px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+} 
+
+#css_photo {
+    background-image: url("https://www.programiz.com/sites/tutorial2program/files/css-syntax.png");
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    padding-top: 0;
+    margin-top: -35px;
+    border: 0;
+}
+
+#github {
+    background-image: url("https://quibtech.com/p/host-your-website-on-github/featuredImage_hu03ad3acbd1f4d769a3b53df03af47292_58966_800x0_resize_box_3.png");
+    height: 240px;
+    width: 800px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+} 
+
+#github_photo {
+    background-image: url("https://geomoer.github.io/moer-base-r/assets/images/spotlights/github_header.png");
+    background-color: black;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 100%;
+    padding-top: 0;
+    margin-top: -10px;
+    border: 0;
 }
