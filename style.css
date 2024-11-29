@@ -1,0 +1,107 @@
+#jbhunt_photo {
+    background-image: url("https://talkbusiness.net/wp-content/uploads/2022/10/jbhunt-intermodal-732x387.jpg");
+    background-size: cover;
+    background-position: top center;
+    height: 300px;
+    width: 100%;
+    padding-top: 0;
+    margin-top: -35px;
+    border: 0;
+}
+
+body {
+    background-color: #EAE7DC;
+    margin: 0;
+    padding: 0;
+}
+
+#main_text {
+    text-align: center;
+}
+
+header {
+    color: #E85A4F;
+    font-family: Garamond;
+    font-size: 30px;
+    line-height: 14px;
+    position: relative;
+    top: 130px;
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+header h3 {
+    font-size: 16px;
+    text-align: center;
+}
+
+#html_text {
+    text-align: center;
+}
+
+#html_text h1 {
+    font-size: 40px;
+}
+
+#html_text p {
+    font-size: 20px;
+    width: 450px;
+    margin: auto;
+    line-height: 30px;
+    padding: 10px;
+}
+
+h3 {
+    padding-top: 10px;
+}
+
+#return {
+    margin: auto;
+    text-align: center;
+}
+
+#return :hover {
+    color: #E85A4F;
+}
+
+#link_boxes {
+    margin: 0 auto;
+    padding-top: 100px;
+    text-align: center;
+    width: 1000px;
+    height: 1000px;
+    font-size: 25px;
+}
+
+#box_links {
+    height: 120px;
+    width: 400px;
+    margin-bottom: 30px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#box_links :hover{
+    color: #E85A4F;
+}
+
+#html_photo {
+    background-image: url("https://www.freecodecamp.org/news/content/images/size/w2000/2024/05/cover-img.jpg");
+    background-size: cover;
+    background-position: top center;
+    height: 300px;
+    width: 100%;
+    padding-top: 0;
+    margin-top: -35px;
+    border: 0;
+}
+
+#codecademy {
+    background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Codecademy.svg/285px-Codecademy.svg.png");
+    height: 60px;
+    width: 285px;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
